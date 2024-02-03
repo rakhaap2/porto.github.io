@@ -7,8 +7,8 @@ name_pronunciation:''
 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rakha
+last_name: Aditya Putra
 
 # Status emoji
 status:
@@ -18,73 +18,65 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: International Relations Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Jenderal Achmad Yani University
+    url: https://www.unjani.ac.id/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A passionate International Relations student who committed to personal and professional growth. I demonstrate a high level of dedication in pursuing continuous self-improvement, strong communication skills and a heightened sense of empathy have aided me in successfully handling tasks and responsibilities. I possess a strong desire to keep learning and growing, and I am ready to bring a positive contribution to the workplace or projects I engage in.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - International Relations
   - Information Retrieval
+  - National Security
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor in International Relations
+      institution: Jenderal Achmad Yani University
+      year: 2022 - Now
+    - course: Computer and Network Engineering
+      institution: Pekerjaan Umum Vocational Highschool
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: HTML5
         description: ''
-        percent: 80
-        icon: python
+        icon: html5
         icon_pack: fab
-      - name: Data Science
+      - name: Mikrotik
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+        icon: server
+        icon_pack: fab
       - name: SQL
         description: ''
-        percent: 40
         icon: database
         icon_pack: fas
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Workout 
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
+        icon: dumbbell
+        icon_pack: fab
       - name: Cats
         description: ''
-        percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Research on International Issues
         description: ''
-        percent: 80
-        icon: camera-retro
+        icon: landmark
         icon_pack: fas
 
 # Social/Academic Networking
@@ -109,7 +101,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/rakha-aditya-putra-427b591b8/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
